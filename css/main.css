@@ -632,14 +632,14 @@ nav a {
       .about-img {
         grid-row: 1 / 4; } }
   .about-title {
-    grid-column: name / port;
+    grid-column: por / port;
     grid-row: 1 / 2;
     -webkit-align-self: end;
     -ms-flex-item-align: end;
     align-self: end; }
   .about-subtitle,
   .about-text {
-    grid-column: port / port; }
+    grid-column: port /port; }
     @media (min-width: 50em) {
       .about-subtitle,
       .about-text {
